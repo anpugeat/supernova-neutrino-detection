@@ -1,6 +1,6 @@
 ## Supernova Neutrino Event Analysis
 
-A comprehensive machine learning framework for analyzing supernova neutrino events detected in Liquid-Argon Time-Projection Chambers (LArTPCs). This project implements advanced deep learning techniques to classify neutrino events, predict energies, and simulate realistic detector conditions for the Supernova Early Warning System (SNEWS).
+A comprehensive machine learning framework for analyzing supernova neutrino events detected in Liquid-Argon Time-Projection Chambers (LArTPCs). This project implements deep learning methods to classify neutrino events, predict energies, and simulate realistic detector conditions for the Supernova Early Warning System (SNEWS).
 
 ---
 
