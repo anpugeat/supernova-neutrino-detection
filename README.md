@@ -14,7 +14,8 @@ This project's aim is to apply Convolutional Neural Networks to successfully ide
 
 ---
 
-### Datasets
+
+### Datasets
 
 The data for this mini-project comes in the form of the following files:
 
